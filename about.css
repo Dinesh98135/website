@@ -1,0 +1,36 @@
+.section45{
+    width: 100%;
+    padding: 5px 0px 0px 400px;
+    font-size: 25px;
+    color: #444;
+    position: fixed;
+    background-color: azure;
+}
+.res2{
+    margin: 55px 0px 0 6px;
+    height: 360px;
+    width: 100%;
+    cursor: pointer;
+}
+.liiv:hover{
+    
+    width: 440px;
+    transition: 0.2s ease-in-out;
+}
+.last h2{
+    padding: 10px 0px 0px 540px;
+    background-color: antiquewhite;
+}
+.button6{
+   text-decoration: none;
+   border-radius: 50px;
+   font-size: 30px;
+}
+.button6 a{
+    height: 80px;
+    border-radius: 50px;
+    font-size: 20px;
+    color: bisque;
+    background-color: cadetblue;
+    margin: 0 0 0 1082px;
+}
